@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a51a194-d223-4a4e-95b1-352fdddd128d" name="Changes" comment="MyPrakticumJava">
-      <change afterPath="$PROJECT_DIR$/src/com/prakticum/leart_for.java" afterDir="false" />
+    <list default="true" id="6a51a194-d223-4a4e-95b1-352fdddd128d" name="Changes" comment="правки">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_array_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_for_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_while_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_while_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_while_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prakticum/learn_while_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +68,7 @@
       <recent name="C:\Users\letow\IdeaProjects\MyPrakticumJava\src\com\prakticum" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.learn_array_9">
     <configuration name="Praktika" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.prakticum.leart_for" />
       <module name="MyPrakticumJava" />
@@ -63,6 +76,88 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="learn_array_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prakticum.learn_array_3" />
+      <module name="MyPrakticumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakticum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learn_array_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prakticum.learn_array_6" />
+      <module name="MyPrakticumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakticum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learn_array_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prakticum.learn_array_7" />
+      <module name="MyPrakticumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakticum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learn_array_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prakticum.learn_array_8" />
+      <module name="MyPrakticumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakticum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learn_array_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prakticum.learn_array_9" />
+      <module name="MyPrakticumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakticum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Praktika" />
+      <item itemvalue="Application.learn_array_3" />
+      <item itemvalue="Application.learn_array_6" />
+      <item itemvalue="Application.learn_array_7" />
+      <item itemvalue="Application.learn_array_8" />
+      <item itemvalue="Application.learn_array_9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.learn_array_9" />
+        <item itemvalue="Application.learn_array_8" />
+        <item itemvalue="Application.learn_array_7" />
+        <item itemvalue="Application.learn_array_6" />
+        <item itemvalue="Application.learn_array_3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655735715408</updated>
-      <workItem from="1655735724508" duration="3080000" />
+      <workItem from="1655735724508" duration="14136000" />
     </task>
     <task id="LOCAL-00001" summary="MyPrakticumJava">
       <created>1655735905246</created>
@@ -88,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655735951368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="правки">
+      <created>1655739062141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655739062141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +209,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MyPrakticumJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyPrakticumJava" />
+    <MESSAGE value="правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки" />
   </component>
 </project>
